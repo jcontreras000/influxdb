@@ -1,7 +1,7 @@
 reporting-disabled = false
 
 [meta]
-  dir = "/root/.influxdb/meta"
+  dir = "/var/opt/influxdb/meta"
 # peers = ["hosta:8909", "hostb:8909"]
 # hostname = "0.0.0.0"
   bind-address = ":8088"
